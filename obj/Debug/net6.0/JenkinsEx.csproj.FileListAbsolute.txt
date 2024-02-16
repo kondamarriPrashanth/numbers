@@ -1,0 +1,14 @@
+E:\MPHASIS\PHASE 4\16feb\JenkinsEx\JenkinsEx\bin\Debug\net6.0\JenkinsEx.exe
+E:\MPHASIS\PHASE 4\16feb\JenkinsEx\JenkinsEx\bin\Debug\net6.0\JenkinsEx.deps.json
+E:\MPHASIS\PHASE 4\16feb\JenkinsEx\JenkinsEx\bin\Debug\net6.0\JenkinsEx.runtimeconfig.json
+E:\MPHASIS\PHASE 4\16feb\JenkinsEx\JenkinsEx\bin\Debug\net6.0\JenkinsEx.dll
+E:\MPHASIS\PHASE 4\16feb\JenkinsEx\JenkinsEx\bin\Debug\net6.0\JenkinsEx.pdb
+E:\MPHASIS\PHASE 4\16feb\JenkinsEx\JenkinsEx\obj\Debug\net6.0\JenkinsEx.GeneratedMSBuildEditorConfig.editorconfig
+E:\MPHASIS\PHASE 4\16feb\JenkinsEx\JenkinsEx\obj\Debug\net6.0\JenkinsEx.AssemblyInfoInputs.cache
+E:\MPHASIS\PHASE 4\16feb\JenkinsEx\JenkinsEx\obj\Debug\net6.0\JenkinsEx.AssemblyInfo.cs
+E:\MPHASIS\PHASE 4\16feb\JenkinsEx\JenkinsEx\obj\Debug\net6.0\JenkinsEx.csproj.CoreCompileInputs.cache
+E:\MPHASIS\PHASE 4\16feb\JenkinsEx\JenkinsEx\obj\Debug\net6.0\JenkinsEx.dll
+E:\MPHASIS\PHASE 4\16feb\JenkinsEx\JenkinsEx\obj\Debug\net6.0\refint\JenkinsEx.dll
+E:\MPHASIS\PHASE 4\16feb\JenkinsEx\JenkinsEx\obj\Debug\net6.0\JenkinsEx.pdb
+E:\MPHASIS\PHASE 4\16feb\JenkinsEx\JenkinsEx\obj\Debug\net6.0\JenkinsEx.genruntimeconfig.cache
+E:\MPHASIS\PHASE 4\16feb\JenkinsEx\JenkinsEx\obj\Debug\net6.0\ref\JenkinsEx.dll
